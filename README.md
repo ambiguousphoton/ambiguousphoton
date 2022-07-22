@@ -1,9 +1,9 @@
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FcAxdEo0EsPkAAAAC%2Fpixel-art.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fpixel-art-backgrounds-gifs&tbnid=irZz8YzVcWwF_M&vet=12ahUKEwjcg4rn6Yz5AhVuj9gFHUjXDSUQMygAegUIARCKAg..i&docid=W2kBiCXQam8UXM&w=498&h=280&q=pixal%20banner%20gif&client=ms-android-samsung-ga-rev1&ved=2ahUKEwjcg4rn6Yz5AhVuj9gFHUjXDSUQMygAegUIARCKAg">
+<img src="https://i.pinimg.com/originals/36/85/08/3685088f9111d12a0549c04b082e717a.gif">
 <h1 align="center">Hi 👋, I'm VectorPerfecet</h1>
 <h3 align="center">A software developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambiguousphoton&label=Profile%20views&color=0e75b6&style=flat" alt="ambiguousphoton" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc</?username=ambiguousphoton&label=Profile%20views&color=0e75b6&style=flat" alt="ambiguousphoton" /> </p>
 <img align="center" alt="coding"  src="https://www.bing.com/th/id/OGC.17065b1cba59fcd7843383093dc580b1?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fTvmbZRpwDoTny%2fgiphy.gif&ehk=12yVB9ZWFEkl48m8n6pTPRVpA7jAEWQc5aFhwt98WHk%3d">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambiguousphoton" alt="ambiguousphoton" /></a> </p>
 
