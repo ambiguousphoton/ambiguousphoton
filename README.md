@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm VectorPerfecet</h1>
 <h3 align="center">A software developer from India</h3>
+<img align="right" alt="coding" width= "400" src="https://th.bing.com/th/id/R.4057210a075e36893bf79b05004909d6?rik=Thlf06dFNxsfEg&riu=http%3a%2f%2fi.imgur.com%2f9y3eej0.gif&ehk=UaSHNw%2fJbbqKQ0BPWaQMmfnEXNrBBr4btaBqSt%2fWxNc%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambiguousphoton&label=Profile%20views&color=0e75b6&style=flat" alt="ambiguousphoton" /> </p>
 
