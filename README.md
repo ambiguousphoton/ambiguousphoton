@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambiguousphoton&label=Profile%20views&color=0e75b6&style=flat" alt="ambiguousphoton" /> </p>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.17065b1cba59fcd7843383093dc580b1?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fTvmbZRpwDoTny%2fgiphy.gif&ehk=12yVB9ZWFEkl48m8n6pTPRVpA7jAEWQc5aFhwt98WHk%3d">
+<img align="right" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.17065b1cba59fcd7843383093dc580b1?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fTvmbZRpwDoTny%2fgiphy.gif&ehk=12yVB9ZWFEkl48m8n6pTPRVpA7jAEWQc5aFhwt98WHk%3d">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambiguousphoton" alt="ambiguousphoton" /></a> </p>
 
 - 🔭 I’m currently working on **innovative software development.**
