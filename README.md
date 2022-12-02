@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm VectorPerfecet</h1>
 <h3 align="center">A software developer from India</h3>
 
+The P in Progess comes from Pain, increase difficulty..
 
 <p align="left"> <img src="https://komarev.com/ghpvc</?username=ambiguousphoton&label=Profile%20views&color=0e75b6&style=flat" alt="ambiguousphoton" /> </p>
 
