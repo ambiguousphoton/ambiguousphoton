@@ -4,7 +4,7 @@
 
 The P in Progess comes from Pain, increase difficulty..
 
-<p align="left"> <img src="https://komarev.com/ghpvc</?username=ambiguousphoton&label=Profile%20views&color=0e75b6&style=flat" alt="ambiguousphoton" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://pa1.narvii.com/6342/2d6fc2150f8744c906bdaf5fcc057b731938d0e9_hq.gif" alt="ambiguousphoton" /></a> </p>
 
