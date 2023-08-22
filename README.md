@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/36/85/08/3685088f9111d12a0549c04b082e717a.gif">
+<p align="middle"><img src="https://i.pinimg.com/originals/36/85/08/3685088f9111d12a0549c04b082e717a.gif">
 <h1 align="center">Hi 👋, I'm VectorPerfecet</h1>
 <h3 align="center">A software developer from India</h3>
 
