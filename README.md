@@ -6,7 +6,7 @@ The P in Progess comes from Pain, increase difficulty..
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://pa1.narvii.com/6342/2d6fc2150f8744c906bdaf5fcc057b731938d0e9_hq.gif" alt="ambiguousphoton" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://pa1.narvii.com/6342/2d6fc2150f8744c906bdaf5fcc057b731938d0e9_hq.gif" alt="ambiguousphoton" /></a> </p>
 
 - 🔭 I’m currently working on **innovative software development.**
 
